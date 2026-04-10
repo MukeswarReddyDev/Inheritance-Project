@@ -25,15 +25,15 @@ class single {
 	String name = "mukesh";
 
 	void pavan() {
-		System.out.println("errinakodu");
+		System.out.println("Pavan likes to see movies");
 	}
 
 	void anand() {
-		System.out.println("Modull");
+		System.out.println("Anand likes to run");
 	}
 
 	void eswar() {
-		System.out.println("Pillana koduku");
+		System.out.println("Eswar likes ");
 	}
 
 }
