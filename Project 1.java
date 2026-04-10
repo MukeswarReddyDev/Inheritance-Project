@@ -125,6 +125,8 @@ public class Inheritance1 {
 		System.out.println("Private Members can not be Inheritatedd");
 		System.out.println("_______________________________________");
 		System.out.println("Constructors can't inheritate");
+		mam.Mam();
+		Man mm = new Man();
 		Man mm = new Man();
 		mm.Man();
 
